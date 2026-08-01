@@ -1,10 +1,10 @@
 <p align="center">
 
-<img src="assets/banner.png" alt="Artificial Neuron Banner" width="100%"/>
-
 # 🧠 Artificial Neuron (Perceptron) From Scratch
 
-### Building the Foundation of Deep Learning Using Pure Mathematics, NumPy & Interactive Visualization
+### *Understanding the Fundamental Building Block of Deep Learning Through Mathematics, NumPy, and Interactive Visualization*
+
+<img src="assets/banner.png" width="100%" alt="Project Banner"/>
 
 </p>
 
@@ -13,11 +13,22 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+![NumPy](https://img.shields.io/badge/NumPy-Vectorized-013243?style=for-the-badge&logo=numpy)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_UI-FF4B4B?style=for-the-badge&logo=streamlit)
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+![Made With](https://img.shields.io/badge/Made%20With-Love-red?style=for-the-badge)
 
 </p>
+
+---
+
+<p align="center">
 
 ## 🚀 Live Demo
 
